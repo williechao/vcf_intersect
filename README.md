@@ -5,7 +5,7 @@ Different variant callers use different statistical models to find mutations bet
 ### Usage
 Download the script and run it directly like 
 ```
-python vcf_intersect.py -i "[file 1] [& or |] [file2] [& or |] [file 3] ..." -o [output_file]
+python vcf_intersect.py -i "[file 1] [& or |] [file2] [& or |] [file 3]" -o [output_file]
 ```
 (quotations are necessary)
 
